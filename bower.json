@@ -1,0 +1,19 @@
+{
+  "name": "Abouie-project",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Adamor/ABouie",
+  "authors": [
+    "Arthur Bouie <arthurbouie@gmail.com>"
+  ],
+  "description": "New Personal Site",
+  "main": "stylesheets/main.css",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
