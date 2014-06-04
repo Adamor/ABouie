@@ -93,3 +93,32 @@ body {
         border-bottom: 0;
     }
 }
+
+// Style for Arthur Bouie.Com
+// Author: Arthur Bouie
+
+ul{
+    list-style: none;
+}
+
+.quarter-sect{
+    min-height: 200px;
+    border: 2px solid black;
+    border-radius: 6px;
+}
+
+.quarter-sect.sect-1{
+    border-color: red;
+}
+
+.quarter-sect.sect-2{
+    border-color: blue;
+}
+
+.quarter-sect.sect-3{
+    border-color: green;
+}
+
+.quarter-sect.sect-4{
+    border-color: orange;
+}
